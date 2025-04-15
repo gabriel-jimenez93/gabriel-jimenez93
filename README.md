@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Gabriel 👋
 
-<!--
-**gabriel-jimenez93/gabriel-jimenez93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador Full Stack con una gran pasión por la tecnología, el diseño interactivo y la creación de experiencias únicas en la web. Me gusta aprender de forma constante, enfrentar nuevos desafíos y trabajar en equipo.
 
-Here are some ideas to get you started:
+### 💼 Tecnologías que manejo:
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind.
+- **Backend:** Python, Flask, SQL, JWT.
+- **Herramientas:** Git, GitHub, Postman, Vite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivos a corto plazo:
+- Perfeccionar mis habilidades en React y aprender Next.js
+- Mejorar mi backend con Node.js
+- Subir más proyectos open source y colaborar con otros devs
+
+### 📫 ¿Querés contactarme?
+- [LinkedIn](https://www.linkedin.com/in/gabriel-angel-jim%C3%A9nez-montoya-b9b6a1320/)
+- gabo0813ajm@gmail.com
+
+---
+
+**"El código es como la magia... pero real."** ✨  
+Gracias por visitar mi perfil 👾
