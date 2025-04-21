@@ -1,5 +1,6 @@
-![Banner tecnológico de Gabri](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-699c-61f7-bb47-556bd47b5f74/raw?se=2025-04-21T09%3A28%3A37Z&sp=r&sv=2024-08-04&sr=b&scid=4b9b4267-20a9-5cdb-9b04-768ce8c90db9&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-20T23%3A11%3A17Z&ske=2025-04-21T23%3A11%3A17Z&sks=b&skv=2024-08-04&sig=SdWqc3jz97Yk9gcoe%2BR4A024DORCjzMQ5fFls0qXtJQ%3D)
 # ¡Hola! Soy Gabriel 👋
+
+![Banner tecnológico de Gabri](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-699c-61f7-bb47-556bd47b5f74/raw?se=2025-04-21T09%3A28%3A37Z&sp=r&sv=2024-08-04&sr=b&scid=4b9b4267-20a9-5cdb-9b04-768ce8c90db9&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-20T23%3A11%3A17Z&ske=2025-04-21T23%3A11%3A17Z&sks=b&skv=2024-08-04&sig=SdWqc3jz97Yk9gcoe%2BR4A024DORCjzMQ5fFls0qXtJQ%3D)
 
 Soy desarrollador Full Stack con una gran pasión por la tecnología, el diseño interactivo y la creación de experiencias únicas en la web. Me gusta aprender de forma constante, enfrentar nuevos desafíos y trabajar en equipo.
 
