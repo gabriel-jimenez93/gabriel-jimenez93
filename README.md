@@ -20,7 +20,7 @@ Soy desarrollador Full Stack con una gran pasión por la tecnología, el diseño
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ### 🎯 Objetivos a corto plazo:
 - Perfeccionar mis habilidades en React y aprender Next.js
