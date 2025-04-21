@@ -22,9 +22,11 @@ Soy desarrollador Full Stack con una gran pasión por la tecnología, el diseño
 - Mejorar mi backend con Node.js
 - Subir más proyectos open source y colaborar con otros devs
 
-### 📫 ¿Querés contactarme?
-- [LinkedIn](https://www.linkedin.com/in/gabriel-angel-jim%C3%A9nez-montoya-b9b6a1320/)
-- gabo0813ajm@gmail.com
+## 🌐 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-angel-jim%C3%A9nez-montoya-b9b6a1320/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo0813ajm@gmail.com)
+
 
 ---
 
