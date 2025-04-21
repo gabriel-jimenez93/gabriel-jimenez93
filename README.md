@@ -27,15 +27,15 @@ Soy desarrollador Full Stack con una gran pasión por la tecnología, el diseño
 ## 📊 GitHub Stats
 
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-jimenez93&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-jimenez93&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="70%" />
 </div>
 
 <div aling="start">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-jimenez93&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-jimenez93&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-jimenez93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-jimenez93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="70%" />
 </div>
 
 
